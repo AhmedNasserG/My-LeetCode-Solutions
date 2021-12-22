@@ -11,6 +11,7 @@
 |116|[ Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Java](./solutions/116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.java)|1 ms|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./solutions/238.%20Product%20of%20Array%20Except%20Self.java)|1 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./solutions/278.%20First%20Bad%20Version.java)|12 ms|
+|295|[ Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](./solutions/295.%20Find%20Median%20from%20Data%20Stream.java)|106 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./solutions/322.%20Coin%20Change.java)|21 ms|
 |367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Java](./solutions/367.%20Valid%20Perfect%20Square.java)|0 ms|
 |515|[ Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](./solutions/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.java)|1 ms|
