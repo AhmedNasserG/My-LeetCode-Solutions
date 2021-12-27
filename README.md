@@ -25,3 +25,4 @@
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Java](./solutions/658.%20Find%20K%20Closest%20Elements.java)|3 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./solutions/733.%20Flood%20Fill.java)|1 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
+|953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.java)|0 ms|
