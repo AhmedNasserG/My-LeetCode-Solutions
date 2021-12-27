@@ -1,0 +1,32 @@
+class Solution {
+    private int[][] graph;
+    private int[] state; // -1 -> not visited // 0 -> setA // 1 -> setB
+    
+    public boolean isBipartite(int[][] graph) {
+        int n = graph.length;
+        this.graph = graph;
+        state = new int[n];
+        Arrays.fill(state, -1);
+        boolean ans = true;
+        for (int i = 0; i < n; i++) {
+            if (ans && state[i] == -1) {
+                state[i] = 0;
+                ans = ans && dfs(i);
+            }
+        }
+        return ans;
+    }
+    
+    private boolean dfs(int idx) {
+        boolean ans = true;
+        for (int neigbour : graph[idx]) {
+            if (state[neigbour] != -1) {
+                ans = ans && (state[neigbour] != state[idx]);
+            } else {
+                state[neigbour] = state[idx] ^ 1;
+                ans = ans && dfs(neigbour);
+            }
+        }
+        return ans;
+    }
+}
