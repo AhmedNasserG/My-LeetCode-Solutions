@@ -24,3 +24,4 @@
 |523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](./solutions/523.%20Continuous%20Subarray%20Sum.java)|15 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Java](./solutions/658.%20Find%20K%20Closest%20Elements.java)|3 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./solutions/733.%20Flood%20Fill.java)|1 ms|
+|785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
