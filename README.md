@@ -37,6 +37,7 @@
 |211|[ Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)|[Java](./solutions/211.%20Design%20Add%20and%20Search%20Words%20Data%20Structure.java)|35 ms|
 |215|[ Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Java](./solutions/215.%20Kth%20Largest%20Element%20in%20an%20Array.java)|6 ms|
 |227|[ Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./solutions/227.%20Basic%20Calculator%20II.java)|120 ms|
+|230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Java](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.java)|0 ms|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./solutions/238.%20Product%20of%20Array%20Except%20Self.java)|1 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./solutions/278.%20First%20Bad%20Version.java)|12 ms|
 |284|[ Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./solutions/284.%20Peeking%20Iterator.java)|4 ms|
