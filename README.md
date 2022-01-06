@@ -48,6 +48,7 @@
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.java)|15 ms|
 |367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Java](./solutions/367.%20Valid%20Perfect%20Square.java)|0 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[Java](./solutions/394.%20Decode%20String.java)|0 ms|
+|398|[ Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Java](./solutions/398.%20Random%20Pick%20Index.java)|112 ms|
 |415|[ Add Strings](https://leetcode.com/problems/add-strings/)|[Java](./solutions/415.%20Add%20Strings.java)|2 ms|
 |437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./solutions/437.%20Path%20Sum%20III.java)|2 ms|
 |515|[ Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](./solutions/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.java)|1 ms|
