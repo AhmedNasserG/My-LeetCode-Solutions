@@ -57,6 +57,7 @@
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.java)|0 ms|
 |556|[ Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Java](./solutions/556.%20Next%20Greater%20Element%20III.java)|6 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Java](./solutions/658.%20Find%20K%20Closest%20Elements.java)|3 ms|
+|670|[ Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Java](./solutions/670.%20Maximum%20Swap.java)|0 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./solutions/733.%20Flood%20Fill.java)|1 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./solutions/876.%20Middle%20of%20the%20Linked%20List.java)|0 ms|
