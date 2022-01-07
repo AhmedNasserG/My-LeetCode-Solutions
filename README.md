@@ -66,6 +66,7 @@
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|0 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.java)|0 ms|
 |973|[ K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Java](./solutions/973.%20K%20Closest%20Points%20to%20Origin.java)|47 ms|
+|977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.java)|2 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Java](./solutions/986.%20Interval%20List%20Intersections.java)|2 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.java)|4 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Java](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.java)|0 ms|
