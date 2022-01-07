@@ -54,6 +54,7 @@
 |498|[ Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Java](./solutions/498.%20Diagonal%20Traverse.java)|2 ms|
 |515|[ Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](./solutions/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.java)|1 ms|
 |523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](./solutions/523.%20Continuous%20Subarray%20Sum.java)|15 ms|
+|528|[ Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)|[Java](./solutions/528.%20Random%20Pick%20with%20Weight.java)|34 ms|
 |540|[ Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)|[Java](./solutions/540.%20Single%20Element%20in%20a%20Sorted%20Array.java)|0 ms|
 |556|[ Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Java](./solutions/556.%20Next%20Greater%20Element%20III.java)|6 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Java](./solutions/658.%20Find%20K%20Closest%20Elements.java)|3 ms|
