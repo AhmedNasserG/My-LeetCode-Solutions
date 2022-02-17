@@ -64,6 +64,7 @@
 |556|[ Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[Java](./solutions/556.%20Next%20Greater%20Element%20III.java)|6 ms|
 |658|[ Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[Java](./solutions/658.%20Find%20K%20Closest%20Elements.java)|3 ms|
 |670|[ Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Java](./solutions/670.%20Maximum%20Swap.java)|0 ms|
+|674|[ Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Java](./solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.java)|1 ms|
 |692|[ Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](./solutions/692.%20Top%20K%20Frequent%20Words.java)|9 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./solutions/733.%20Flood%20Fill.java)|1 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
