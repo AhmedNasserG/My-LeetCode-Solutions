@@ -93,3 +93,4 @@
 |1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[Java](./solutions/1675.%20Minimize%20Deviation%20in%20Array.java)|132 ms|
 |1963|[ Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[Java](./solutions/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.java)|14 ms|
 |2160|[ Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Java](./solutions/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.java)|2 ms|
+|2177|[ Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)|[Java](./solutions/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number.java)|2 ms|
