@@ -24,6 +24,7 @@
 |53|[ Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./solutions/53.%20Maximum%20Subarray.java)|2 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./solutions/56.%20Merge%20Intervals.java)|8 ms|
 |58|[ Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./solutions/58.%20Length%20of%20Last%20Word.java)|0 ms|
+|64|[ Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Java](./solutions/64.%20Minimum%20Path%20Sum.java)|2 ms|
 |65|[ Valid Number](https://leetcode.com/problems/valid-number/)|[Java](./solutions/65.%20Valid%20Number.java)|5 ms|
 |67|[ Add Binary](https://leetcode.com/problems/add-binary/)|[Java](./solutions/67.%20Add%20Binary.java)|4 ms|
 |71|[ Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./solutions/71.%20Simplify%20Path.java)|6 ms|
