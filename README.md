@@ -42,6 +42,7 @@
 |139|[ Word Break](https://leetcode.com/problems/word-break/)|[Java](./solutions/139.%20Word%20Break.java)|5 ms|
 |140|[ Word Break II](https://leetcode.com/problems/word-break-ii/)|[Java](./solutions/140.%20Word%20Break%20II.java)|0 ms|
 |146|[ LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./solutions/146.%20LRU%20Cache.java)|90 ms|
+|148|[ Sort List](https://leetcode.com/problems/sort-list/)|[Java](./solutions/148.%20Sort%20List.java)|9 ms|
 |162|[ Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Java](./solutions/162.%20Find%20Peak%20Element.java)|0 ms|
 |169|[ Majority Element](https://leetcode.com/problems/majority-element/)|[Java](./solutions/169.%20Majority%20Element.java)|2 ms|
 |171|[ Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)|[Java](./solutions/171.%20Excel%20Sheet%20Column%20Number.java)|1 ms|
