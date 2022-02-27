@@ -106,6 +106,7 @@
 |1288|[ Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Java](./solutions/1288.%20Remove%20Covered%20Intervals.java)|6 ms|
 |1373|[ Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)|[Java](./solutions/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.java)|13 ms|
 |1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[Java](./solutions/1675.%20Minimize%20Deviation%20in%20Array.java)|132 ms|
+|1905|[ Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)|[Java](./solutions/1905.%20Count%20Sub%20Islands.java)|44 ms|
 |1963|[ Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[Java](./solutions/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.java)|14 ms|
 |2160|[ Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Java](./solutions/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.java)|2 ms|
 |2177|[ Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)|[Java](./solutions/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number.java)|2 ms|
