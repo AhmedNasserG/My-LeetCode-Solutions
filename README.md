@@ -65,6 +65,7 @@
 |297|[ Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Java](./solutions/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.java)|18 ms|
 |322|[ Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./solutions/322.%20Coin%20Change.java)|21 ms|
 |329|[ Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Java](./solutions/329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.java)|15 ms|
+|338|[ Counting Bits](https://leetcode.com/problems/counting-bits/)|[Java](./solutions/338.%20Counting%20Bits.java)|3 ms|
 |367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Java](./solutions/367.%20Valid%20Perfect%20Square.java)|0 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[Java](./solutions/394.%20Decode%20String.java)|0 ms|
 |398|[ Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Java](./solutions/398.%20Random%20Pick%20Index.java)|112 ms|
