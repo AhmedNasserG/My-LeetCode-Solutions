@@ -91,6 +91,7 @@
 |698|[ Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Java](./solutions/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.java)|1779 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./solutions/733.%20Flood%20Fill.java)|1 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
+|799|[ Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[Java](./solutions/799.%20Champagne%20Tower.java)|5 ms|
 |827|[ Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./solutions/827.%20Making%20A%20Large%20Island.java)|108 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./solutions/876.%20Middle%20of%20the%20Linked%20List.java)|0 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|0 ms|
