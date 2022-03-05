@@ -90,6 +90,7 @@
 |695|[ Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java](./solutions/695.%20Max%20Area%20of%20Island.java)|5 ms|
 |698|[ Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Java](./solutions/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.java)|1779 ms|
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./solutions/733.%20Flood%20Fill.java)|1 ms|
+|740|[ Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Java](./solutions/740.%20Delete%20and%20Earn.java)|7 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
 |799|[ Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[Java](./solutions/799.%20Champagne%20Tower.java)|5 ms|
 |827|[ Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./solutions/827.%20Making%20A%20Large%20Island.java)|108 ms|
