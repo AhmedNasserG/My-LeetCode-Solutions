@@ -126,6 +126,7 @@
 |1359|[ Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[Java](./solutions/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.java)|0 ms|
 |1373|[ Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)|[Java](./solutions/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.java)|13 ms|
 |1387|[ Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Java](./solutions/1387.%20Sort%20Integers%20by%20The%20Power%20Value.java)|52 ms|
+|1396|[ Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Java](./solutions/1396.%20Design%20Underground%20System.java)|157 ms|
 |1472|[ Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Java](./solutions/1472.%20Design%20Browser%20History.java)|145 ms|
 |1603|[ Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Java](./solutions/1603.%20Design%20Parking%20System.java)|10 ms|
 |1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Java](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.java)|0 ms|
