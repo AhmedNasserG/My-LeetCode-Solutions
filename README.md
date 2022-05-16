@@ -110,6 +110,7 @@
 |977|[ Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](./solutions/977.%20Squares%20of%20a%20Sorted%20Array.java)|2 ms|
 |986|[ Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)|[Java](./solutions/986.%20Interval%20List%20Intersections.java)|2 ms|
 |987|[ Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)|[Java](./solutions/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.java)|4 ms|
+|988|[ Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|[Java](./solutions/988.%20Smallest%20String%20Starting%20From%20Leaf.java)|10 ms|
 |1004|[ Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[Java](./solutions/1004.%20Max%20Consecutive%20Ones%20III.java)|3 ms|
 |1009|[ Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)|[Java](./solutions/1009.%20Complement%20of%20Base%2010%20Integer.java)|0 ms|
 |1013|[ Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)|[Java](./solutions/1013.%20Partition%20Array%20Into%20Three%20Parts%20With%20Equal%20Sum.java)|4 ms|
