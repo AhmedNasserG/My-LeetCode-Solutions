@@ -93,6 +93,7 @@
 |662|[ Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)|[Java](./solutions/662.%20Maximum%20Width%20of%20Binary%20Tree.java)|2 ms|
 |670|[ Maximum Swap](https://leetcode.com/problems/maximum-swap/)|[Java](./solutions/670.%20Maximum%20Swap.java)|0 ms|
 |674|[ Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Java](./solutions/674.%20Longest%20Continuous%20Increasing%20Subsequence.java)|1 ms|
+|676|[ Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)|[Java](./solutions/676.%20Implement%20Magic%20Dictionary.java)|45 ms|
 |692|[ Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Java](./solutions/692.%20Top%20K%20Frequent%20Words.java)|9 ms|
 |695|[ Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Java](./solutions/695.%20Max%20Area%20of%20Island.java)|5 ms|
 |698|[ Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)|[Java](./solutions/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.java)|1779 ms|
