@@ -66,6 +66,7 @@
 |230|[ Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Java](./solutions/230.%20Kth%20Smallest%20Element%20in%20a%20BST.java)|0 ms|
 |236|[ Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Java](./solutions/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.java)|7 ms|
 |238|[ Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./solutions/238.%20Product%20of%20Array%20Except%20Self.java)|1 ms|
+|257|[ Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./solutions/257.%20Binary%20Tree%20Paths.java)|2 ms|
 |278|[ First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./solutions/278.%20First%20Bad%20Version.java)|12 ms|
 |284|[ Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./solutions/284.%20Peeking%20Iterator.java)|4 ms|
 |295|[ Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](./solutions/295.%20Find%20Median%20from%20Data%20Stream.java)|106 ms|
