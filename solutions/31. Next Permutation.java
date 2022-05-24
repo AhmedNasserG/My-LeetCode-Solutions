@@ -1,23 +1,23 @@
 class Solution {
     public void nextPermutation(int[] nums) {
-        int a = -1, b = 0;
-        for (int i = 0; i < nums.length - 1; i++) {
-            if (nums[i] < nums[i + 1]) {
-                a = i;
-                b = i + 1;
+        int n = nums.length;
+        int lastPeek = -1;
+        int i = n - 1;
+        while (i > 0) {
+            if (nums[i] > nums[i - 1]) {
+                lastPeek = i - 1;
+                break;
             }
+            i--;
         }
-        if (a == -1){ 
-            reverse(nums, 0, nums.length - 1);
-            return;
-        }
-        for (int i = b; i < nums.length; i++) {
-            if (nums[i] > nums[a]) {
-                b = i;
+        if (lastPeek != -1) {
+            int j = lastPeek + 1;
+            while (j + 1 < n && nums[lastPeek] < nums[j + 1]) {
+                j++;
             }
+            swap(nums, lastPeek, j);
         }
-        swap(nums, a, b);
-        reverse(nums, a + 1, nums.length - 1);
+        reverse(nums, lastPeek + 1);
     }
     
     private void swap(int[] nums, int i, int j) {
@@ -26,9 +26,10 @@ class Solution {
         nums[j] = temp;
     }
     
-    private void reverse(int[] nums, int i, int j) {
-        while (i < j) {
-            swap(nums, i++, j--);
+    private void reverse(int[] nums, int i) {
+        int n = nums.length - 1;
+        while (i < n) {
+            swap(nums, i++, n--);
         }
     }
 }
