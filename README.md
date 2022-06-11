@@ -139,6 +139,7 @@
 |1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](./solutions/1254.%20Number%20of%20Closed%20Islands.java)|2 ms|
 |1288|[ Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Java](./solutions/1288.%20Remove%20Covered%20Intervals.java)|6 ms|
 |1304|[ Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Java](./solutions/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.java)|0 ms|
+|1349|[ Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)|[Java](./solutions/1349.%20Maximum%20Students%20Taking%20Exam.java)|100 ms|
 |1359|[ Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[Java](./solutions/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.java)|0 ms|
 |1373|[ Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)|[Java](./solutions/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.java)|13 ms|
 |1376|[ Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Java](./solutions/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.java)|139 ms|
