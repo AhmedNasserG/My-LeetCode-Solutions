@@ -151,6 +151,7 @@
 |1376|[ Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/)|[Java](./solutions/1376.%20Time%20Needed%20to%20Inform%20All%20Employees.java)|139 ms|
 |1387|[ Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value/)|[Java](./solutions/1387.%20Sort%20Integers%20by%20The%20Power%20Value.java)|52 ms|
 |1396|[ Design Underground System](https://leetcode.com/problems/design-underground-system/)|[Java](./solutions/1396.%20Design%20Underground%20System.java)|157 ms|
+|1465|[ Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)|[Java](./solutions/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.java)|28 ms|
 |1472|[ Design Browser History](https://leetcode.com/problems/design-browser-history/)|[Java](./solutions/1472.%20Design%20Browser%20History.java)|145 ms|
 |1519|[ Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[Java](./solutions/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.java)|137 ms|
 |1603|[ Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Java](./solutions/1603.%20Design%20Parking%20System.java)|10 ms|
