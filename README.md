@@ -157,6 +157,7 @@
 |1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Java](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.java)|0 ms|
 |1647|[ Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|[Java](./solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.java)|12 ms|
 |1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[Java](./solutions/1675.%20Minimize%20Deviation%20in%20Array.java)|132 ms|
+|1799|[ Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)|[Java](./solutions/1799.%20Maximize%20Score%20After%20N%20Operations.java)|357 ms|
 |1905|[ Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)|[Java](./solutions/1905.%20Count%20Sub%20Islands.java)|44 ms|
 |1928|[ Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)|[Java](./solutions/1928.%20Minimum%20Cost%20to%20Reach%20Destination%20in%20Time.java)|70 ms|
 |1963|[ Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[Java](./solutions/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.java)|14 ms|
