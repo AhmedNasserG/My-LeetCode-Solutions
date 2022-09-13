@@ -121,6 +121,7 @@
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Java](./solutions/856.%20Score%20of%20Parentheses.java)|0 ms|
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./solutions/876.%20Middle%20of%20the%20Linked%20List.java)|0 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|0 ms|
+|937|[ Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[Java](./solutions/937.%20Reorder%20Data%20in%20Log%20Files.java)|47 ms|
 |939|[ Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/)|[Java](./solutions/939.%20Minimum%20Area%20Rectangle.java)|624 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[Java](./solutions/946.%20Validate%20Stack%20Sequences.java)|0 ms|
 |953|[ Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)|[Java](./solutions/953.%20Verifying%20an%20Alien%20Dictionary.java)|0 ms|
