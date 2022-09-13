@@ -136,6 +136,7 @@
 |1015|[ Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|[Java](./solutions/1015.%20Smallest%20Integer%20Divisible%20by%20K.java)|3 ms|
 |1020|[ Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)|[Java](./solutions/1020.%20Number%20of%20Enclaves.java)|4 ms|
 |1029|[ Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Java](./solutions/1029.%20Two%20City%20Scheduling.java)|2 ms|
+|1041|[ Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/)|[Java](./solutions/1041.%20Robot%20Bounded%20In%20Circle.java)|1 ms|
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java)|9 ms|
 |1162|[ As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[Java](./solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.java)|24 ms|
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Java](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.java)|17 ms|
