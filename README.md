@@ -155,6 +155,7 @@
 |1519|[ Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)|[Java](./solutions/1519.%20Number%20of%20Nodes%20in%20the%20Sub-Tree%20With%20the%20Same%20Label.java)|137 ms|
 |1603|[ Design Parking System](https://leetcode.com/problems/design-parking-system/)|[Java](./solutions/1603.%20Design%20Parking%20System.java)|10 ms|
 |1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Java](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.java)|0 ms|
+|1629|[ Slowest Key](https://leetcode.com/problems/slowest-key/)|[Java](./solutions/1629.%20Slowest%20Key.java)|2 ms|
 |1647|[ Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|[Java](./solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.java)|12 ms|
 |1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[Java](./solutions/1675.%20Minimize%20Deviation%20in%20Array.java)|132 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.java)|9 ms|
