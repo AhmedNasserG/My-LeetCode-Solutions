@@ -1,34 +1,44 @@
 class Solution {
     public int maxScore(int[] nums) {
-        int n = nums.length;
-        List<Pair> list = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                list.add(new Pair(nums[i], nums[j], gcd(nums[i], nums[j])));
-            }
-        }
-        Collections.sort(list, (Pair a, Pair b) -> b.g - a.g);
-        int ans = 0, op = n / 2;
-        HashSet<Integer> visited = new HashSet<>();
-        for (Pair p : list) {
-            if (visited.contains(p.a) || visited.contains(p.b)) {
-                continue;
-            }
-            ans += op * p.g;
-            visited.add(p.a);
-            visited.add(p.b);
-        }
-        return ans;
-    }
-    
-    private class Pair {
-        int a, b, g;
-        Pair(int a, int b, int g) {
-            this.a = a;    
-            this.b = b;    
-            this.g = g;    
-        }
+        N = nums.length;
+        arr = nums;
+        memo = new int[N + 1][1 << N];
+        for (int[] row : memo) Arrays.fill(row, -1);
+        return solve(1, 0);
     }
     
     private int gcd(int a, int b) {
         return a == 0? b : gcd(b % a, a);
+    }
+​
+    private int visit(int msk, int idx1, int idx2) {
+        return msk | (1 << idx1) | (1 << idx2);
+    }
+​
+    private boolean isVisted(int msk, int idx) {
+        return (msk & (1 << idx)) != 0;
+    }
+​
+    int N;
+    int[] arr;
+    int[][] memo;
+​
+    private int solve(int idx, int msk) {
+        if (idx == N + 1) {
+            return 0;
+        }
+        if (memo[idx][msk] != -1) {
+            return memo[idx][msk];
+        }
+        memo[idx][msk] = 0;
+        for (int i = 0; i < N; i++) {
+            for (int j = i + 1; j < N; j++) {
+                if (isVisted(msk, i) || isVisted(msk, j)) {
+                    continue;
+                }
+                memo[idx][msk] = Math.max(memo[idx][msk], idx * gcd(arr[i], arr[j]) + solve(idx + 1, visit(msk, i, j)));
+            }
+        }
+        return memo[idx][msk];
+    }
+}
