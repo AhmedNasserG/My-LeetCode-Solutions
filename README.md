@@ -161,6 +161,7 @@
 |1647|[ Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|[Java](./solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.java)|12 ms|
 |1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[Java](./solutions/1675.%20Minimize%20Deviation%20in%20Array.java)|132 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.java)|9 ms|
+|1761|[ Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/)|[Java](./solutions/1761.%20Minimum%20Degree%20of%20a%20Connected%20Trio%20in%20a%20Graph.java)|34 ms|
 |1792|[ Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Java](./solutions/1792.%20Maximum%20Average%20Pass%20Ratio.java)|953 ms|
 |1799|[ Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)|[Java](./solutions/1799.%20Maximize%20Score%20After%20N%20Operations.java)|357 ms|
 |1905|[ Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)|[Java](./solutions/1905.%20Count%20Sub%20Islands.java)|44 ms|
