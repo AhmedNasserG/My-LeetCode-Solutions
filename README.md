@@ -180,3 +180,4 @@
 |2  |[Number of Ways to Split Into Primes](https://www.geeksforgeeks.org/count-of-ways-to-split-a-given-number-into-prime-segments/)|[Java](./solutions/Number%20of%20Ways%20to%20Split%20Into%20Primes.java)
 |3  |[Two Sum - Unique Pairs]()|[Java](./solutions/Two%20Sum%20-%20Unique%20Pairs.java)|
 |4  |[Tree Heights]()|[Java](./solutions/Tree%20Heights.java)|
+|5  |[Counting Binary Substrings]()|[Java](./solutions/Counting%20Binary%20Substrings.java)|
