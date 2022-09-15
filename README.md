@@ -181,3 +181,4 @@
 |3  |[Two Sum - Unique Pairs]()|[Java](./solutions/Two%20Sum%20-%20Unique%20Pairs.java)|
 |4  |[Tree Heights]()|[Java](./solutions/Tree%20Heights.java)|
 |5  |[Counting Binary Substrings]()|[Java](./solutions/Counting%20Binary%20Substrings.java)|
+|6  |[Grid Connections]()|[Java](./solutions/Grid%20Connections.java)|
