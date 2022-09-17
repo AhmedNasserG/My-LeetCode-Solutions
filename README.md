@@ -171,3 +171,4 @@
 |2177|[ Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)|[Java](./solutions/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number.java)|2 ms|
 |2178|[ Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)|[Java](./solutions/2178.%20Maximum%20Split%20of%20Positive%20Even%20Integers.java)|11 ms|
 |2409|[ Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)|[Java](./solutions/2409.%20Count%20Days%20Spent%20Together.java)|9 ms|
+|2410|[ Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)|[Java](./solutions/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java)|32 ms|
