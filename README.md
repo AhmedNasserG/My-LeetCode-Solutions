@@ -172,3 +172,4 @@
 |2178|[ Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)|[Java](./solutions/2178.%20Maximum%20Split%20of%20Positive%20Even%20Integers.java)|11 ms|
 |2409|[ Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)|[Java](./solutions/2409.%20Count%20Days%20Spent%20Together.java)|9 ms|
 |2410|[ Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)|[Java](./solutions/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java)|32 ms|
+|2411|[ Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/)|[Java](./solutions/2411.%20Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR.java)|111 ms|
