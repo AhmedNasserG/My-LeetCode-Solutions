@@ -182,3 +182,4 @@
 |4  |[Tree Heights]()|[Java](./solutions/Tree%20Heights.java)|
 |5  |[Counting Binary Substrings]()|[Java](./solutions/Counting%20Binary%20Substrings.java)|
 |6  |[Grid Connections]()|[Java](./solutions/Grid%20Connections.java)|
+|2409|[ Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)|[Java](./solutions/2409.%20Count%20Days%20Spent%20Together.java)|9 ms|
