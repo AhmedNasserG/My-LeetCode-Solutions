@@ -170,16 +170,4 @@
 |2160|[ Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Java](./solutions/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.java)|2 ms|
 |2177|[ Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)|[Java](./solutions/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number.java)|2 ms|
 |2178|[ Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)|[Java](./solutions/2178.%20Maximum%20Split%20of%20Positive%20Even%20Integers.java)|11 ms|
-
----
-# Not on Leetcode
-
-| # | Title | Solution |
-|---| ----- | -------- |
-|1  |[Find All Combination of Numbers Sum to Target](https://www.educative.io/m/find-all-sum-combinations)|[Java](./solutions/Find%20All%20Combination%20of%20Numbers%20Sum%20to%20Target.java)|
-|2  |[Number of Ways to Split Into Primes](https://www.geeksforgeeks.org/count-of-ways-to-split-a-given-number-into-prime-segments/)|[Java](./solutions/Number%20of%20Ways%20to%20Split%20Into%20Primes.java)
-|3  |[Two Sum - Unique Pairs]()|[Java](./solutions/Two%20Sum%20-%20Unique%20Pairs.java)|
-|4  |[Tree Heights]()|[Java](./solutions/Tree%20Heights.java)|
-|5  |[Counting Binary Substrings]()|[Java](./solutions/Counting%20Binary%20Substrings.java)|
-|6  |[Grid Connections]()|[Java](./solutions/Grid%20Connections.java)|
 |2409|[ Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)|[Java](./solutions/2409.%20Count%20Days%20Spent%20Together.java)|9 ms|
