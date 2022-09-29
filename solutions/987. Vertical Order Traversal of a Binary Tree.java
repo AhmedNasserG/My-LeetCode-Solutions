@@ -1,40 +1,44 @@
-                } else {
-                    return this.level - node.level;
-                }
-            }
-            return this.col - node.col;
-            
-        }
-    }
-    
+class Solution {
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        PriorityQueue<ColNode> pq = new PriorityQueue<>();
-        dfs(root, pq, 0, 0);
+        PriorityQueue<Item> pq = new PriorityQueue();
+        dfs(root, 0, 0, pq);
         List<List<Integer>> ans = new ArrayList<>();
-        List<Integer> temp = null;
-        int lastCol = Integer.MIN_VALUE;
-        
+        int prevCol = Integer.MIN_VALUE;
         while (!pq.isEmpty()) {
-            ColNode node = pq.remove();
-            if (node.col != lastCol) {
-                if (temp != null) {
-                    ans.add(temp);
-                }
-                temp =  new ArrayList<>();
-                lastCol = node.col;
+            Item item = pq.remove();
+            if (item.col != prevCol) {
+                prevCol = item.col;
+                ans.add(new ArrayList());
             }
-            temp.add(node.val);
+            ans.get(ans.size() - 1).add(item.val);
         }
-        ans.add(temp);
         return ans;
     }
     
-    void dfs(TreeNode root, PriorityQueue<ColNode> pq, int level, int col) {
-        if (root == null) {
-            return;
+    void dfs(TreeNode node, int row, int col, PriorityQueue<Item> pq) {
+        if (node == null) return;
+        pq.add(new Item(node.val, row, col));
+        dfs(node.left, row + 1, col - 1, pq);
+        dfs(node.right, row + 1, col + 1, pq);
+    }
+    
+    class Item implements Comparable<Item>{
+        int val, row, col;
+        Item(int val, int row, int col) {
+            this.val = val;
+            this.row = row;
+            this.col = col;
         }
-        pq.add(new ColNode(root.val, level, col));
-        dfs(root.left, pq, level + 1, col - 1);
-        dfs(root.right, pq, level + 1, col + 1);
+        
+        public int compareTo(Item item) {
+            if (this.row == item.row && this.col == item.col) {
+                return this.val - item.val;
+            }
+            if (this.col == item.col) {
+                return this.row - item.row;
+            }
+                
+            return this.col - item.col;
+        }
     }
 }
