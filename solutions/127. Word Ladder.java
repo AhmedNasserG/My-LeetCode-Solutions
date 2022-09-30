@@ -1,35 +1,28 @@
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
-        return bfs(beginWord, endWord, wordList);
-    }
-    
-    private int bfs(String beginWord, String endWord, List<String> wordList) {
-        Queue<String> q = new LinkedList();
-        Set<String> visited = new HashSet();
-        Set<String> wordSet = new HashSet(wordList);
+        HashSet<String> list = new HashSet(wordList);
+        Queue<String> q = new LinkedList<>();
         q.add(beginWord);
-        visited.add(beginWord);
-        int cost = 1;
+        int ans = 0;
         while (!q.isEmpty()) {
             int levelSize = q.size();
+            ans++;
             while (levelSize-- > 0) {
-                String current = q.remove();
-                if (current.equals(endWord)) return cost;
-                char[] arr = current.toCharArray();
-                for (int i = 0; i < arr.length; i++) {
-                    char old = arr[i];
+                String cur = q.remove();
+                if (cur.equals(endWord)) return ans;
+                char[] curArr = cur.toCharArray();
+                for (int i = 0; i < cur.length(); i++) {
+                    char oldChar = curArr[i];
                     for (char c = 'a'; c <= 'z'; c++) {
-                        arr[i] = c;
-                        String next = new String(arr);
-                        if (!visited.contains(next) && wordSet.contains(next)) {
-                            q.add(next);
-                            visited.add(next);
-                        }
+                        curArr[i] = c;
+                        String next = new String(curArr);
+                        if (!list.contains(next)) continue;
+                        list.remove(next);
+                        q.add(next);
                     }
-                    arr[i] = old;
+                    curArr[i] = oldChar;
                 }
             }
-            cost++;
         }
         return 0;
     }
