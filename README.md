@@ -152,6 +152,7 @@
 |1047|[ Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Java](./solutions/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.java)|9 ms|
 |1162|[ As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/)|[Java](./solutions/1162.%20As%20Far%20from%20Land%20as%20Possible.java)|24 ms|
 |1209|[ Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Java](./solutions/1209.%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.java)|17 ms|
+|1235|[ Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)|[Java](./solutions/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.java)|74 ms|
 |1239|[ Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Java](./solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.java)|7 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Java](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.java)|27 ms|
 |1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](./solutions/1254.%20Number%20of%20Closed%20Islands.java)|2 ms|
