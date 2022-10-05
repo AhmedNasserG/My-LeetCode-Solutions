@@ -10,6 +10,7 @@
 |9|[ Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./solutions/9.%20Palindrome%20Number.java)|6 ms|
 |10|[ Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Java](./solutions/10.%20Regular%20Expression%20Matching.java)|2 ms|
 |15|[ 3Sum](https://leetcode.com/problems/3sum/)|[Java](./solutions/15.%203Sum.java)|25 ms|
+|16|[ 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Java](./solutions/16.%203Sum%20Closest.java)|137 ms|
 |17|[ Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Java](./solutions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.java)|4 ms|
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java)|0 ms|
 |20|[ Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./solutions/20.%20Valid%20Parentheses.java)|1 ms|
