@@ -131,6 +131,7 @@
 |733|[ Flood Fill](https://leetcode.com/problems/flood-fill/)|[Java](./solutions/733.%20Flood%20Fill.java)|1 ms|
 |735|[ Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)|[Java](./solutions/735.%20Asteroid%20Collision.java)|12 ms|
 |740|[ Delete and Earn](https://leetcode.com/problems/delete-and-earn/)|[Java](./solutions/740.%20Delete%20and%20Earn.java)|7 ms|
+|767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Java](./solutions/767.%20Reorganize%20String.java)|1 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
 |799|[ Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[Java](./solutions/799.%20Champagne%20Tower.java)|5 ms|
 |827|[ Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./solutions/827.%20Making%20A%20Large%20Island.java)|108 ms|
