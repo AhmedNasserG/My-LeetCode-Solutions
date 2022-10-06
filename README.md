@@ -110,6 +110,7 @@
 |437|[ Path Sum III](https://leetcode.com/problems/path-sum-iii/)|[Java](./solutions/437.%20Path%20Sum%20III.java)|2 ms|
 |486|[ Predict the Winner](https://leetcode.com/problems/predict-the-winner/)|[Java](./solutions/486.%20Predict%20the%20Winner.java)|1 ms|
 |498|[ Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/)|[Java](./solutions/498.%20Diagonal%20Traverse.java)|2 ms|
+|503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[Java](./solutions/503.%20Next%20Greater%20Element%20II.java)|34 ms|
 |513|[ Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)|[Java](./solutions/513.%20Find%20Bottom%20Left%20Tree%20Value.java)|0 ms|
 |515|[ Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)|[Java](./solutions/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.java)|1 ms|
 |523|[ Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/)|[Java](./solutions/523.%20Continuous%20Subarray%20Sum.java)|15 ms|
