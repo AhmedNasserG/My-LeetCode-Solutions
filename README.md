@@ -98,6 +98,7 @@
 |367|[ Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Java](./solutions/367.%20Valid%20Perfect%20Square.java)|0 ms|
 |378|[ Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[Java](./solutions/378.%20Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.java)|37 ms|
 |380|[ Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Java](./solutions/380.%20Insert%20Delete%20GetRandom%20O(1).java)|N/A|
+|387|[ First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Java](./solutions/387.%20First%20Unique%20Character%20in%20a%20String.java)|17 ms|
 |392|[ Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Java](./solutions/392.%20Is%20Subsequence.java)|1 ms|
 |394|[ Decode String](https://leetcode.com/problems/decode-string/)|[Java](./solutions/394.%20Decode%20String.java)|0 ms|
 |398|[ Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[Java](./solutions/398.%20Random%20Pick%20Index.java)|112 ms|
