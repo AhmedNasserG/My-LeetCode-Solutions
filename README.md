@@ -138,6 +138,7 @@
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[Java](./solutions/767.%20Reorganize%20String.java)|1 ms|
 |785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
 |799|[ Champagne Tower](https://leetcode.com/problems/champagne-tower/)|[Java](./solutions/799.%20Champagne%20Tower.java)|5 ms|
+|818|[ Race Car](https://leetcode.com/problems/race-car/)|[Java](./solutions/818.%20Race%20Car.java)|78 ms|
 |827|[ Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./solutions/827.%20Making%20A%20Large%20Island.java)|108 ms|
 |829|[ Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Java](./solutions/829.%20Consecutive%20Numbers%20Sum.java)|10 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](./solutions/841.%20Keys%20and%20Rooms.java)|0 ms|
