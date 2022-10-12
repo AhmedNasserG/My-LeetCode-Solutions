@@ -205,4 +205,5 @@
 |2409|[ Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)|[Java](./solutions/2409.%20Count%20Days%20Spent%20Together.java)|9 ms|
 |2410|[ Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/)|[Java](./solutions/2410.%20Maximum%20Matching%20of%20Players%20With%20Trainers.java)|32 ms|
 |2411|[ Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/)|[Java](./solutions/2411.%20Smallest%20Subarrays%20With%20Maximum%20Bitwise%20OR.java)|111 ms|
+|2416|[ Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/)|[Java](./solutions/2416.%20Sum%20of%20Prefix%20Scores%20of%20Strings.java)|217 ms|
 |2421|[ Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/)|[Java](./solutions/2421.%20Number%20of%20Good%20Paths.java)|168 ms|
