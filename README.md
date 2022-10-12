@@ -200,6 +200,7 @@
 |1928|[ Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)|[Java](./solutions/1928.%20Minimum%20Cost%20to%20Reach%20Destination%20in%20Time.java)|70 ms|
 |1963|[ Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[Java](./solutions/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.java)|14 ms|
 |2160|[ Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|[Java](./solutions/2160.%20Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.java)|2 ms|
+|2172|[ Maximum AND Sum of Array](https://leetcode.com/problems/maximum-and-sum-of-array/)|[Java](./solutions/2172.%20Maximum%20AND%20Sum%20of%20Array.java)|371 ms|
 |2177|[ Find Three Consecutive Integers That Sum to a Given Number](https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/)|[Java](./solutions/2177.%20Find%20Three%20Consecutive%20Integers%20That%20Sum%20to%20a%20Given%20Number.java)|2 ms|
 |2178|[ Maximum Split of Positive Even Integers](https://leetcode.com/problems/maximum-split-of-positive-even-integers/)|[Java](./solutions/2178.%20Maximum%20Split%20of%20Positive%20Even%20Integers.java)|11 ms|
 |2409|[ Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/)|[Java](./solutions/2409.%20Count%20Days%20Spent%20Together.java)|9 ms|
