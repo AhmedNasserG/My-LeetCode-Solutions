@@ -176,6 +176,7 @@
 |1239|[ Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)|[Java](./solutions/1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.java)|7 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[Java](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.java)|27 ms|
 |1254|[ Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/)|[Java](./solutions/1254.%20Number%20of%20Closed%20Islands.java)|2 ms|
+|1268|[ Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Java](./solutions/1268.%20Search%20Suggestions%20System.java)|80 ms|
 |1288|[ Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Java](./solutions/1288.%20Remove%20Covered%20Intervals.java)|6 ms|
 |1304|[ Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Java](./solutions/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.java)|0 ms|
 |1331|[ Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Java](./solutions/1331.%20Rank%20Transform%20of%20an%20Array.java)|72 ms|
