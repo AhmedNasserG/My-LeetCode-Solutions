@@ -197,6 +197,7 @@
 |1614|[ Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)|[Java](./solutions/1614.%20Maximum%20Nesting%20Depth%20of%20the%20Parentheses.java)|0 ms|
 |1629|[ Slowest Key](https://leetcode.com/problems/slowest-key/)|[Java](./solutions/1629.%20Slowest%20Key.java)|2 ms|
 |1647|[ Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|[Java](./solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.java)|12 ms|
+|1648|[ Sell Diminishing-Valued Colored Balls](https://leetcode.com/problems/sell-diminishing-valued-colored-balls/)|[Java](./solutions/1648.%20Sell%20Diminishing-Valued%20Colored%20Balls.java)|126 ms|
 |1675|[ Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/)|[Java](./solutions/1675.%20Minimize%20Deviation%20in%20Array.java)|132 ms|
 |1710|[ Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[Java](./solutions/1710.%20Maximum%20Units%20on%20a%20Truck.java)|9 ms|
 |1761|[ Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/)|[Java](./solutions/1761.%20Minimum%20Degree%20of%20a%20Connected%20Trio%20in%20a%20Graph.java)|34 ms|
