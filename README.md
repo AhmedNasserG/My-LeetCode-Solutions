@@ -209,6 +209,7 @@
 |1770|[ Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)|[Java](./solutions/1770.%20Maximum%20Score%20from%20Performing%20Multiplication%20Operations.java)|702 ms|
 |1792|[ Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Java](./solutions/1792.%20Maximum%20Average%20Pass%20Ratio.java)|953 ms|
 |1799|[ Maximize Score After N Operations](https://leetcode.com/problems/maximize-score-after-n-operations/)|[Java](./solutions/1799.%20Maximize%20Score%20After%20N%20Operations.java)|357 ms|
+|1871|[ Jump Game VII](https://leetcode.com/problems/jump-game-vii/)|[Java](./solutions/1871.%20Jump%20Game%20VII.java)||
 |1905|[ Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)|[Java](./solutions/1905.%20Count%20Sub%20Islands.java)|44 ms|
 |1928|[ Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)|[Java](./solutions/1928.%20Minimum%20Cost%20to%20Reach%20Destination%20in%20Time.java)|70 ms|
 |1963|[ Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/)|[Java](./solutions/1963.%20Minimum%20Number%20of%20Swaps%20to%20Make%20the%20String%20Balanced.java)|14 ms|
