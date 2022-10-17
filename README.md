@@ -188,6 +188,7 @@
 |1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Java](./solutions/1306.%20Jump%20Game%20III.java)||
 |1331|[ Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Java](./solutions/1331.%20Rank%20Transform%20of%20an%20Array.java)|72 ms|
 |1335|[ Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[Java](./solutions/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.java)|110 ms|
+|1345|[ Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[Java](./solutions/1345.%20Jump%20Game%20IV.java)|60 ms|
 |1349|[ Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)|[Java](./solutions/1349.%20Maximum%20Students%20Taking%20Exam.java)|100 ms|
 |1359|[ Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/)|[Java](./solutions/1359.%20Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.java)|0 ms|
 |1373|[ Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)|[Java](./solutions/1373.%20Maximum%20Sum%20BST%20in%20Binary%20Tree.java)|13 ms|
