@@ -185,6 +185,7 @@
 |1268|[ Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[Java](./solutions/1268.%20Search%20Suggestions%20System.java)|80 ms|
 |1288|[ Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/)|[Java](./solutions/1288.%20Remove%20Covered%20Intervals.java)|6 ms|
 |1304|[ Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Java](./solutions/1304.%20Find%20N%20Unique%20Integers%20Sum%20up%20to%20Zero.java)|0 ms|
+|1306|[ Jump Game III](https://leetcode.com/problems/jump-game-iii/)|[Java](./solutions/1306.%20Jump%20Game%20III.java)||
 |1331|[ Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)|[Java](./solutions/1331.%20Rank%20Transform%20of%20an%20Array.java)|72 ms|
 |1335|[ Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)|[Java](./solutions/1335.%20Minimum%20Difficulty%20of%20a%20Job%20Schedule.java)|110 ms|
 |1349|[ Maximum Students Taking Exam](https://leetcode.com/problems/maximum-students-taking-exam/)|[Java](./solutions/1349.%20Maximum%20Students%20Taking%20Exam.java)|100 ms|
