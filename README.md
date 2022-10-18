@@ -155,6 +155,7 @@
 |829|[ Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Java](./solutions/829.%20Consecutive%20Numbers%20Sum.java)|10 ms|
 |841|[ Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[Java](./solutions/841.%20Keys%20and%20Rooms.java)|0 ms|
 |856|[ Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[Java](./solutions/856.%20Score%20of%20Parentheses.java)|0 ms|
+|863|[ All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[Java](./solutions/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.java)||
 |876|[ Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[Java](./solutions/876.%20Middle%20of%20the%20Linked%20List.java)|0 ms|
 |909|[ Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Java](./solutions/909.%20Snakes%20and%20Ladders.java)|9 ms|
 |921|[ Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)|[Java](./solutions/921.%20Minimum%20Add%20to%20Make%20Parentheses%20Valid.java)|0 ms|
